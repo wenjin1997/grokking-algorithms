@@ -5,8 +5,8 @@
 ## 二分查找
 * [python代码](chaper01/../chapter01/binary-search.py)
 * [Java代码](chapter01/binarySearch.java)
-* 二分查找的运行时间为$O(\log n)$.
-* 简单查找的运行时间为$O(n)$.
+* 二分查找的运行时间为O(log n).
+* 简单查找的运行时间为O(n).
 
 # 第2章 选择排序
 * 链表的每个元素都存储了下一个元素的地址，从而使一系列随机的内存地址串在一起。
